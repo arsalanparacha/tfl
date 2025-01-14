@@ -1,0 +1,781 @@
+Year,Month,Transport Mode,Crime Volume,Rate
+2010,1,Bus,1921.0,10.6
+2010,1,London Overground,42.0,0.0
+2010,1,London Tramlink,22.0,10.4
+2010,1,London Underground / Docklands Light Railway,1198.0,13.6
+2010,2,Bus,2079.0,12.0
+2010,2,London Overground,29.0,0.0
+2010,2,London Tramlink,28.0,14.0
+2010,2,London Underground / Docklands Light Railway,1187.0,13.1
+2010,3,Bus,2402.0,12.0
+2010,3,London Overground,44.0,0.0
+2010,3,London Tramlink,26.0,10.6
+2010,3,London Underground / Docklands Light Railway,1329.0,12.5
+2010,4,Bus,1955.0,10.7
+2010,4,London Overground,39.0,0.0
+2010,4,London Tramlink,37.0,16.7
+2010,4,London Underground / Docklands Light Railway,1134.0,12.0
+2010,5,Bus,1955.0,10.0
+2010,5,London Overground,43.0,0.0
+2010,5,London Tramlink,37.0,16.0
+2010,5,London Underground / Docklands Light Railway,1117.0,11.9
+2010,6,Bus,2068.0,10.6
+2010,6,London Overground,45.0,0.0
+2010,6,London Tramlink,34.0,14.5
+2010,6,London Underground / Docklands Light Railway,1058.0,10.7
+2010,7,Bus,2161.0,10.9
+2010,7,London Overground,70.0,0.0
+2010,7,London Tramlink,32.0,13.6
+2010,7,London Underground / Docklands Light Railway,1181.0,11.5
+2010,8,Bus,1850.0,10.6
+2010,8,London Overground,55.0,0.0
+2010,8,London Tramlink,30.0,14.3
+2010,8,London Underground / Docklands Light Railway,1078.0,11.3
+2010,9,Bus,1988.0,9.7
+2010,9,London Overground,56.0,0.0
+2010,9,London Tramlink,24.0,10.0
+2010,9,London Underground / Docklands Light Railway,1066.0,10.8
+2010,10,Bus,2086.0,10.5
+2010,10,London Overground,80.0,0.0
+2010,10,London Tramlink,28.0,11.5
+2010,10,London Underground / Docklands Light Railway,1304.0,12.4
+2010,11,Bus,2071.0,10.5
+2010,11,London Overground,72.0,0.0
+2010,11,London Tramlink,49.0,19.9
+2010,11,London Underground / Docklands Light Railway,1273.0,12.3
+2010,12,Bus,1747.0,10.3
+2010,12,London Overground,33.0,0.0
+2010,12,London Tramlink,14.0,6.2
+2010,12,London Underground / Docklands Light Railway,983.0,10.3
+2011,1,Bus,1979.0,10.7
+2011,1,London Overground,53.0,0.0
+2011,1,London Tramlink,29.0,13.0
+2011,1,London Underground / Docklands Light Railway,1104.0,11.8
+2011,2,Bus,1968.0,11.1
+2011,2,London Overground,54.0,0.0
+2011,2,London Tramlink,23.0,10.5
+2011,2,London Underground / Docklands Light Railway,1125.0,12.1
+2011,3,Bus,2126.0,10.2
+2011,3,London Overground,58.0,0.0
+2011,3,London Tramlink,30.0,11.7
+2011,3,London Underground / Docklands Light Railway,1260.0,11.7
+2011,4,Bus,1768.0,9.7
+2011,4,London Overground,40.0,6.6
+2011,4,London Tramlink,46.0,21.8
+2011,4,London Underground / Docklands Light Railway,965.0,10.0
+2011,5,Bus,2006.0,10.0
+2011,5,London Overground,51.0,7.4
+2011,5,London Tramlink,37.0,15.3
+2011,5,London Underground / Docklands Light Railway,1170.0,11.8
+2011,6,Bus,1967.0,9.8
+2011,6,London Overground,59.0,7.7
+2011,6,London Tramlink,34.0,13.9
+2011,6,London Underground / Docklands Light Railway,1166.0,11.3
+2011,7,Bus,1921.0,9.6
+2011,7,London Overground,74.0,9.0
+2011,7,London Tramlink,38.0,15.6
+2011,7,London Underground / Docklands Light Railway,1135.0,10.8
+2011,8,Bus,1515.0,8.7
+2011,8,London Overground,78.0,9.5
+2011,8,London Tramlink,35.0,16.6
+2011,8,London Underground / Docklands Light Railway,1010.0,10.3
+2011,9,Bus,1659.0,8.0
+2011,9,London Overground,109.0,12.7
+2011,9,London Tramlink,26.0,10.4
+2011,9,London Underground / Docklands Light Railway,916.0,8.8
+2011,10,Bus,1841.0,9.1
+2011,10,London Overground,64.0,6.7
+2011,10,London Tramlink,22.0,8.8
+2011,10,London Underground / Docklands Light Railway,1031.0,9.4
+2011,11,Bus,1957.0,9.6
+2011,11,London Overground,72.0,7.6
+2011,11,London Tramlink,27.0,10.5
+2011,11,London Underground / Docklands Light Railway,987.0,9.0
+2011,12,Bus,1650.0,9.1
+2011,12,London Overground,58.0,7.1
+2011,12,London Tramlink,33.0,14.0
+2011,12,London Underground / Docklands Light Railway,927.0,9.1
+2012,1,Bus,1745.0,9.1
+2012,1,London Overground,55.0,5.9
+2012,1,London Tramlink,18.0,7.6
+2012,1,London Underground / Docklands Light Railway,954.0,9.3
+2012,2,Bus,1643.0,8.9
+2012,2,London Overground,71.0,7.8
+2012,2,London Tramlink,18.0,8.5
+2012,2,London Underground / Docklands Light Railway,1006.0,9.9
+2012,3,Bus,1998.0,9.4
+2012,3,London Overground,82.0,8.1
+2012,3,London Tramlink,35.0,13.5
+2012,3,London Underground / Docklands Light Railway,1045.0,9.4
+2012,4,Bus,1653.0,8.9
+2012,4,London Overground,64.0,7.1
+2012,4,London Tramlink,19.0,8.3
+2012,4,London Underground / Docklands Light Railway,934.0,9.1
+2012,5,Bus,1823.0,8.5
+2012,5,London Overground,72.0,7.2
+2012,5,London Tramlink,46.0,17.5
+2012,5,London Underground / Docklands Light Railway,1100.0,9.9
+2012,6,Bus,1688.0,8.8
+2012,6,London Overground,75.0,8.2
+2012,6,London Tramlink,35.0,14.7
+2012,6,London Underground / Docklands Light Railway,1047.0,10.1
+2012,7,Bus,1822.0,9.1
+2012,7,London Overground,80.0,7.6
+2012,7,London Tramlink,36.0,13.4
+2012,7,London Underground / Docklands Light Railway,1205.0,10.4
+2012,8,Bus,1591.0,8.7
+2012,8,London Overground,97.0,8.7
+2012,8,London Tramlink,31.0,12.3
+2012,8,London Underground / Docklands Light Railway,948.0,7.9
+2012,9,Bus,1505.0,7.3
+2012,9,London Overground,99.0,9.4
+2012,9,London Tramlink,21.0,8.0
+2012,9,London Underground / Docklands Light Railway,884.0,8.1
+2012,10,Bus,1822.0,8.6
+2012,10,London Overground,93.0,8.7
+2012,10,London Tramlink,32.0,12.7
+2012,10,London Underground / Docklands Light Railway,1158.0,9.8
+2012,11,Bus,1823.0,9.0
+2012,11,London Overground,100.0,9.0
+2012,11,London Tramlink,31.0,11.9
+2012,11,London Underground / Docklands Light Railway,1304.0,11.4
+2012,12,Bus,1725.0,9.5
+2012,12,London Overground,72.0,7.5
+2012,12,London Tramlink,31.0,12.9
+2012,12,London Underground / Docklands Light Railway,1037.0,10.0
+2013,1,Bus,1581.0,8.3
+2013,1,London Overground,76.0,6.9
+2013,1,London Tramlink,29.0,11.8
+2013,1,London Underground / Docklands Light Railway,1108.0,10.5
+2013,2,Bus,1572.0,8.7
+2013,2,London Overground,68.0,6.4
+2013,2,London Tramlink,21.0,9.1
+2013,2,London Underground / Docklands Light Railway,999.0,9.8
+2013,3,Bus,1644.0,8.2
+2013,3,London Overground,65.0,5.6
+2013,3,London Tramlink,23.0,8.9
+2013,3,London Underground / Docklands Light Railway,1221.0,11.0
+2013,4,Bus,1578.0,8.2
+2013,4,London Overground,75.0,6.6
+2013,4,London Tramlink,41.0,16.1
+2013,4,London Underground / Docklands Light Railway,1018.0,9.2
+2013,5,Bus,1610.0,7.8
+2013,5,London Overground,91.0,7.9
+2013,5,London Tramlink,36.0,13.6
+2013,5,London Underground / Docklands Light Railway,954.0,8.3
+2013,6,Bus,1589.0,7.8
+2013,6,London Overground,84.0,7.1
+2013,6,London Tramlink,30.0,11.3
+2013,6,London Underground / Docklands Light Railway,963.0,8.6
+2013,7,Bus,1629.0,7.9
+2013,7,London Overground,81.0,6.5
+2013,7,London Tramlink,34.0,12.6
+2013,7,London Underground / Docklands Light Railway,1018.0,8.6
+2013,8,Bus,1571.0,8.6
+2013,8,London Overground,48.0,4.3
+2013,8,London Tramlink,28.0,12.8
+2013,8,London Underground / Docklands Light Railway,982.0,9.1
+2013,9,Bus,1563.0,7.6
+2013,9,London Overground,68.0,5.8
+2013,9,London Tramlink,22.0,8.3
+2013,9,London Underground / Docklands Light Railway,870.0,7.8
+2013,10,Bus,1675.0,7.9
+2013,10,London Overground,80.0,7.1
+2013,10,London Tramlink,33.0,11.8
+2013,10,London Underground / Docklands Light Railway,932.0,7.5
+2013,11,Bus,1511.0,7.3
+2013,11,London Overground,70.0,6.2
+2013,11,London Tramlink,19.0,6.8
+2013,11,London Underground / Docklands Light Railway,866.0,7.1
+2013,12,Bus,1328.0,7.1
+2013,12,London Overground,64.0,6.5
+2013,12,London Tramlink,20.0,8.4
+2013,12,London Underground / Docklands Light Railway,829.0,7.7
+2014,1,Bus,1370.0,6.9
+2014,1,London Overground,81.0,7.4
+2014,1,London Tramlink,21.0,8.0
+2014,1,London Underground / Docklands Light Railway,973.0,8.6
+2014,2,Bus,1344.0,7.2
+2014,2,London Overground,75.0,6.9
+2014,2,London Tramlink,22.0,9.1
+2014,2,London Underground / Docklands Light Railway,850.0,8.3
+2014,3,Bus,1464.0,6.8
+2014,3,London Overground,82.0,7.1
+2014,3,London Tramlink,12.0,4.2
+2014,3,London Underground / Docklands Light Railway,914.0,7.7
+2014,4,Bus,1306.0,6.8
+2014,4,London Overground,83.0,7.3
+2014,4,London Tramlink,14.0,5.6
+2014,4,London Underground / Docklands Light Railway,749.0,7.0
+2014,5,Bus,1350.0,6.6
+2014,5,London Overground,91.0,8.4
+2014,5,London Tramlink,13.0,5.4
+2014,5,London Underground / Docklands Light Railway,747.0,6.5
+2014,6,Bus,1438.0,6.9
+2014,6,London Overground,75.0,6.7
+2014,6,London Tramlink,14.0,5.3
+2014,6,London Underground / Docklands Light Railway,841.0,7.3
+2014,7,Bus,1392.0,6.8
+2014,7,London Overground,80.0,6.5
+2014,7,London Tramlink,19.0,7.2
+2014,7,London Underground / Docklands Light Railway,859.0,7.0
+2014,8,Bus,1183.0,6.6
+2014,8,London Overground,70.0,5.9
+2014,8,London Tramlink,7.0,3.3
+2014,8,London Underground / Docklands Light Railway,764.0,6.9
+2014,9,Bus,1559.0,7.4
+2014,9,London Overground,82.0,7.1
+2014,9,London Tramlink,8.0,2.9
+2014,9,London Underground / Docklands Light Railway,793.0,6.8
+2014,10,Bus,1585.0,7.4
+2014,10,London Overground,54.0,4.4
+2014,10,London Tramlink,20.0,7.2
+2014,10,London Underground / Docklands Light Railway,913.0,7.0
+2014,11,Bus,1521.0,7.4
+2014,11,London Overground,63.0,5.3
+2014,11,London Tramlink,22.0,8.2
+2014,11,London Underground / Docklands Light Railway,856.0,6.8
+2014,12,Bus,1515.0,8.0
+2014,12,London Overground,52.0,4.9
+2014,12,London Tramlink,17.0,6.7
+2014,12,London Underground / Docklands Light Railway,883.0,7.7
+2015,1,Bus,1501.0,7.9
+2015,1,London Overground,64.0,6.1
+2015,1,London Tramlink,23.0,8.8
+2015,1,London Underground / Docklands Light Railway,801.0,6.9
+2015,2,Bus,1339.0,7.6
+2015,2,London Overground,68.0,6.1
+2015,2,London Tramlink,22.0,9.0
+2015,2,London Underground / Docklands Light Railway,724.0,6.3
+2015,3,Bus,1588.0,7.7
+2015,3,London Overground,58.0,4.6
+2015,3,London Tramlink,29.0,10.8
+2015,3,London Underground / Docklands Light Railway,899.0,7.1
+2015,4,Bus,1376.0,7.2
+2015,4,London Overground,70.0,5.6
+2015,4,London Tramlink,20.0,9.3
+2015,4,London Underground / Docklands Light Railway,805.0,6.9
+2015,5,Bus,1415.0,7.1
+2015,5,London Overground,63.0,4.9
+2015,5,London Tramlink,29.0,12.2
+2015,5,London Underground / Docklands Light Railway,841.0,7.0
+2015,6,Bus,1509.0,7.3
+2015,6,London Overground,98.0,6.1
+2015,6,London Tramlink,25.0,9.9
+2015,6,London Underground / Docklands Light Railway,841.0,6.8
+2015,7,Bus,1524.0,7.6
+2015,7,London Overground,127.0,4.9
+2015,7,London Tramlink,15.0,6.6
+2015,7,London Underground / Docklands Light Railway,837.0,6.8
+2015,8,Bus,1368.0,7.9
+2015,8,London Overground,117.0,7.8
+2015,8,London Tramlink,14.0,6.8
+2015,8,London Underground / Docklands Light Railway,830.0,7.6
+2015,9,Bus,1408.0,6.9
+2015,9,London Overground,108.0,6.7
+2015,9,London Tramlink,17.0,7.3
+2015,9,London Underground / Docklands Light Railway,815.0,6.6
+2015,10,Bus,1550.0,7.6
+2015,10,London Overground,125.0,7.3
+2015,10,London Tramlink,19.0,8.2
+2015,10,London Underground / Docklands Light Railway,929.0,6.8
+2015,11,Bus,1633.0,8.3
+2015,11,London Overground,111.0,6.6
+2015,11,London Tramlink,25.0,10.4
+2015,11,London Underground / Docklands Light Railway,1050.0,8.2
+2015,12,Bus,1504.0,8.3
+2015,12,London Overground,108.0,7.3
+2015,12,London Tramlink,20.0,8.8
+2015,12,London Underground / Docklands Light Railway,965.0,8.2
+2016,1,Bus,1394.0,7.5
+2016,1,London Overground,110.0,7.0
+2016,1,London Tramlink,33.0,14.5
+2016,1,London Underground / Docklands Light Railway,1091.0,9.2
+2016,2,Bus,1407.0,7.7
+2016,2,London Overground,100.0,6.5
+2016,2,London Tramlink,16.0,7.1
+2016,2,London Underground / Docklands Light Railway,906.0,7.4
+2016,3,Bus,1396.0,7.2
+2016,3,London Overground,108.0,6.9
+2016,3,London Tramlink,32.0,13.6
+2016,3,London Underground / Docklands Light Railway,1132.0,9.0
+2016,4,Bus,1347.0,7.1
+2016,4,London Overground,73.0,4.6
+2016,4,London Tramlink,21.0,8.8
+2016,4,London Underground / Docklands Light Railway,790.0,6.4
+2016,4,TFL Rail,36.0,9.2
+2016,5,Bus,1502.0,7.7
+2016,5,London Overground,74.0,4.7
+2016,5,London Tramlink,27.0,10.6
+2016,5,London Underground / Docklands Light Railway,908.0,7.3
+2016,5,TFL Rail,37.0,9.6
+2016,6,Bus,1555.0,8.1
+2016,6,London Overground,92.0,6.1
+2016,6,London Tramlink,25.0,9.7
+2016,6,London Underground / Docklands Light Railway,886.0,7.1
+2016,6,TFL Rail,45.0,11.2
+2016,7,Bus,1482.0,7.9
+2016,7,London Overground,110.0,6.9
+2016,7,London Tramlink,14.0,5.4
+2016,7,London Underground / Docklands Light Railway,911.0,7.1
+2016,7,TFL Rail,29.0,7.1
+2016,8,Bus,1404.0,8.3
+2016,8,London Overground,110.0,7.2
+2016,8,London Tramlink,12.0,5.9
+2016,8,London Underground / Docklands Light Railway,1028.0,8.7
+2016,8,TFL Rail,28.0,7.1
+2016,9,Bus,1447.0,7.3
+2016,9,London Overground,111.0,7.0
+2016,9,London Tramlink,9.0,4.6
+2016,9,London Underground / Docklands Light Railway,856.0,6.9
+2016,9,TFL Rail,39.0,10.1
+2016,10,Bus,1479.0,7.6
+2016,10,London Overground,94.0,5.6
+2016,10,London Tramlink,22.0,8.2
+2016,10,London Underground / Docklands Light Railway,963.0,7.3
+2016,10,TFL Rail,37.0,9.2
+2016,11,Bus,1432.0,7.3
+2016,11,London Overground,98.0,5.8
+2016,11,London Tramlink,17.0,7.9
+2016,11,London Underground / Docklands Light Railway,1303.0,9.7
+2016,11,TFL Rail,30.0,6.9
+2016,12,Bus,1370.0,7.8
+2016,12,London Overground,76.0,5.1
+2016,12,London Tramlink,22.0,9.0
+2016,12,London Underground / Docklands Light Railway,1020.0,8.5
+2016,12,TFL Rail,38.0,10.7
+2017,1,Bus,1212.0,6.6
+2017,1,London Overground,91.0,5.8
+2017,1,London Tramlink,19.0,7.4
+2017,1,London Underground / Docklands Light Railway,974.0,8.4
+2017,1,TFL Rail,32.0,7.6
+2017,2,Bus,1256.0,7.3
+2017,2,London Overground,86.0,5.9
+2017,2,London Tramlink,29.0,13.2
+2017,2,London Underground / Docklands Light Railway,944.0,8.0
+2017,2,TFL Rail,30.0,9.1
+2017,3,Bus,1587.0,7.7
+2017,3,London Overground,127.0,7.3
+2017,3,London Tramlink,28.0,10.2
+2017,3,London Underground / Docklands Light Railway,1139.0,8.5
+2017,3,TFL Rail,36.0,8.8
+2017,4,Bus,1166.0,6.6
+2017,4,London Overground,98.0,6.6
+2017,4,London Tramlink,19.0,8.7
+2017,4,London Underground / Docklands Light Railway,1077.0,15.6
+2017,4,TFL Rail,34.0,10.3
+2017,5,Bus,1396.0,7.0
+2017,5,London Overground,134.0,8.3
+2017,5,London Tramlink,23.0,9.3
+2017,5,London Underground / Docklands Light Railway,983.0,13.8
+2017,5,TFL Rail,51.0,13.4
+2017,6,Bus,1402.0,7.2
+2017,6,London Overground,137.0,8.7
+2017,6,London Tramlink,24.0,9.7
+2017,6,London Underground / Docklands Light Railway,1074.0,14.9
+2017,6,TFL Rail,29.0,7.4
+2017,7,Bus,1536.0,8.1
+2017,7,London Overground,124.0,7.7
+2017,7,London Tramlink,27.0,10.8
+2017,7,London Underground / Docklands Light Railway,1158.0,14.7
+2017,7,TFL Rail,36.0,9.1
+2017,8,Bus,1197.0,7.1
+2017,8,London Overground,113.0,7.6
+2017,8,London Tramlink,26.0,11.5
+2017,8,London Underground / Docklands Light Railway,1054.0,15.399999999999999
+2017,8,TFL Rail,41.0,11.2
+2017,9,Bus,1274.0,6.5
+2017,9,London Overground,110.0,7.2
+2017,9,London Tramlink,24.0,9.1
+2017,9,London Underground / Docklands Light Railway,1040.0,13.6
+2017,9,TFL Rail,55.0,13.9
+2017,10,Bus,1403.0,7.1
+2017,10,London Overground,142.0,9.2
+2017,10,London Tramlink,35.0,13.3
+2017,10,London Underground / Docklands Light Railway,1259.0,14.7
+2017,10,TFL Rail,69.0,16.6
+2017,11,Bus,1543.0,7.8
+2017,11,London Overground,102.0,6.5
+2017,11,London Tramlink,17.0,6.5
+2017,11,London Underground / Docklands Light Railway,1314.0,15.600000000000001
+2017,11,TFL Rail,64.0,15.4
+2017,12,Bus,1227.0,7.1
+2017,12,London Overground,109.0,7.8
+2017,12,London Tramlink,19.0,8.3
+2017,12,London Underground / Docklands Light Railway,1316.0,15.7
+2017,12,TFL Rail,44.0,13.0
+2018,1,Bus,1218.0,6.5
+2018,1,London Overground,97.0,6.1
+2018,1,London Tramlink,23.0,9.7
+2018,1,London Underground / Docklands Light Railway,1238.0,15.2
+2018,1,TFL Rail,60.0,14.7
+2018,2,Bus,1245.0,7.2
+2018,2,London Overground,111.0,7.6
+2018,2,London Tramlink,14.0,6.3
+2018,2,London Underground / Docklands Light Railway,1223.0,14.3
+2018,2,TFL Rail,59.0,16.9
+2018,3,Bus,1320.0,6.9
+2018,3,London Overground,116.0,7.2
+2018,3,London Tramlink,18.0,7.6
+2018,3,London Underground / Docklands Light Railway,1347.0,16.6
+2018,3,TFL Rail,69.0,19.3
+2018,4,Bus,1080.0,6.1
+2018,4,London Overground,120.0,7.7
+2018,4,London Tramlink,22.0,10.7
+2018,4,London Underground / Docklands Light Railway,1155.0,14.5
+2018,4,TFL Rail,52.0,13.4
+2018,5,Bus,1220.0,6.3
+2018,5,London Overground,142.0,9.0
+2018,5,London Tramlink,26.0,10.2
+2018,5,London Underground / Docklands Light Railway,1218.0,15.8
+2018,5,TFL Rail,62.0,15.2
+2018,6,Bus,1194.0,6.1
+2018,6,London Overground,132.0,8.3
+2018,6,London Tramlink,15.0,5.9
+2018,6,London Underground / Docklands Light Railway,1225.0,15.7
+2018,6,TFL Rail,58.0,12.7
+2018,7,Bus,1273.0,6.8
+2018,7,London Overground,132.0,8.3
+2018,7,London Tramlink,25.0,10.0
+2018,7,London Underground / Docklands Light Railway,1270.0,16.5
+2018,7,TFL Rail,87.0,18.2
+2018,8,Bus,1032.0,6.2
+2018,8,London Overground,150.0,9.7
+2018,8,London Tramlink,15.0,6.3
+2018,8,London Underground / Docklands Light Railway,1210.0,15.4
+2018,8,TFL Rail,85.0,18.9
+2018,9,Bus,1184.0,6.2
+2018,9,London Overground,103.0,6.2
+2018,9,London Tramlink,14.0,5.6
+2018,9,London Underground / Docklands Light Railway,1176.0,17.6
+2018,9,TFL Rail,97.0,20.9
+2018,10,Bus,1369.0,7.0
+2018,10,London Overground,152.0,8.7
+2018,10,London Tramlink,21.0,8.0
+2018,10,London Underground / Docklands Light Railway,1359.0,15.9
+2018,10,TFL Rail,112.0,20.8
+2018,11,Bus,1488.0,7.6
+2018,11,London Overground,130.0,7.8
+2018,11,London Tramlink,21.0,8.3
+2018,11,London Underground / Docklands Light Railway,1411.0,16.1
+2018,11,TFL Rail,76.0,16.2
+2018,12,Bus,1262.0,7.3
+2018,12,London Overground,167.0,13.3
+2018,12,London Tramlink,31.0,13.5
+2018,12,London Underground / Docklands Light Railway,1832.0,23.6
+2018,12,TFL Rail,62.0,16.3
+2019,1,Bus,1318.0,7.2
+2019,1,London Overground,103.0,6.5
+2019,1,London Tramlink,19.0,8.3
+2019,1,London Underground / Docklands Light Railway,1583.0,18.6
+2019,1,TFL Rail,61.0,12.2
+2019,2,Bus,1369.0,8.0
+2019,2,London Overground,135.0,9.4
+2019,2,London Tramlink,12.0,5.5
+2019,2,London Underground / Docklands Light Railway,1524.0,17.6
+2019,2,TFL Rail,46.0,10.5
+2019,3,Bus,1568.0,8.1
+2019,3,London Overground,141.0,8.4
+2019,3,London Tramlink,16.0,6.8
+2019,3,London Underground / Docklands Light Railway,1971.0,22.6
+2019,3,TFL Rail,74.0,15.9
+2019,4,Bus,1386.0,8.0
+2019,4,London Overground,169.0,11.0
+2019,4,London Tramlink,19.0,8.7
+2019,4,London Underground / Docklands Light Railway,1745.0,20.9
+2019,4,TFL Rail,61.0,12.8
+2019,5,Bus,1395.0,7.4
+2019,5,London Overground,136.0,8.8
+2019,5,London Tramlink,19.0,8.0
+2019,5,London Underground / Docklands Light Railway,1481.0,16.2
+2019,5,TFL Rail,53.0,10.8
+2019,6,Bus,1564.0,8.3
+2019,6,London Overground,151.0,10.1
+2019,6,London Tramlink,31.0,12.8
+2019,6,London Underground / Docklands Light Railway,1827.0,21.5
+2019,6,TFL Rail,83.0,17.5
+2019,7,Bus,1469.0,7.8
+2019,7,London Overground,136.0,8.4
+2019,7,London Tramlink,24.0,9.7
+2019,7,London Underground / Docklands Light Railway,1549.0,17.9
+2019,7,TFL Rail,77.0,15.1
+2019,8,Bus,1146.0,7.0
+2019,8,London Overground,128.0,8.9
+2019,8,London Tramlink,12.0,6.4
+2019,8,London Underground / Docklands Light Railway,1487.0,18.1
+2019,8,TFL Rail,83.0,18.1
+2019,9,Bus,1328.0,7.1
+2019,9,London Overground,125.0,8.1
+2019,9,London Tramlink,22.0,9.6
+2019,9,London Underground / Docklands Light Railway,1403.0,16.1
+2019,9,TFL Rail,52.0,10.5
+2019,10,Bus,1693.0,8.9
+2019,10,London Overground,117.0,6.4
+2019,10,London Tramlink,20.0,8.0
+2019,10,London Underground / Docklands Light Railway,1819.0,20.0
+2019,10,TFL Rail,68.0,12.3
+2019,11,Bus,1507.0,8.0
+2019,11,London Overground,144.0,8.3
+2019,11,London Tramlink,36.0,14.6
+2019,11,London Underground / Docklands Light Railway,2026.0,21.7
+2019,11,TFL Rail,71.0,13.5
+2019,12,Bus,1277.0,7.6
+2019,12,London Overground,169.0,12.1
+2019,12,London Tramlink,20.0,8.9
+2019,12,London Underground / Docklands Light Railway,2664.0,31.0
+2019,12,TFL Rail,87.0,17.2
+2020,1,Bus,1422.0,7.9
+2020,1,London Overground,129.0,8.1
+2020,1,London Tramlink,19.0,7.7
+2020,1,London Underground / Docklands Light Railway,2081.0,25.400000000000002
+2020,1,TFL Rail,74.0,12.2
+2020,2,Bus,1408.0,8.3
+2020,2,London Overground,137.0,13.9
+2020,2,London Tramlink,27.0,11.5
+2020,2,London Underground / Docklands Light Railway,1919.0,26.9
+2020,2,TFL Rail,75.0,11.9
+2020,3,Bus,1158.0,9.5
+2020,3,London Overground,121.0,10.7
+2020,3,London Tramlink,16.0,9.9
+2020,3,London Underground / Docklands Light Railway,1359.0,21.3
+2020,3,TFL Rail,52.0,14.9
+2020,4,Bus,450.0,16.0
+2020,4,London Overground,42.0,50.1
+2020,4,London Tramlink,5.0,10.4
+2020,4,London Underground / Docklands Light Railway,376.0,90.0
+2020,4,TFL Rail,24.0,18.3
+2020,5,Bus,599.0,16.9
+2020,5,London Overground,49.0,32.9
+2020,5,London Tramlink,11.0,21.4
+2020,5,London Underground / Docklands Light Railway,350.0,63.6
+2020,5,TFL Rail,28.0,38.3
+2020,6,Bus,782.0,15.1
+2020,6,London Overground,60.0,19.2
+2020,6,London Tramlink,13.0,16.8
+2020,6,London Underground / Docklands Light Railway,426.0,40.5
+2020,6,TFL Rail,39.0,30.8
+2020,7,Bus,1053.0,13.8
+2020,7,London Overground,58.0,11.9
+2020,7,London Tramlink,12.0,10.4
+2020,7,London Underground / Docklands Light Railway,617.0,36.400000000000006
+2020,7,TFL Rail,51.0,26.6
+2020,8,Bus,1033.0,12.1
+2020,8,London Overground,96.0,17.9
+2020,8,London Tramlink,21.0,19.4
+2020,8,London Underground / Docklands Light Railway,661.0,27.5
+2020,8,TFL Rail,48.0,22.7
+2020,9,Bus,1302.0,11.8
+2020,9,London Overground,93.0,14.1
+2020,9,London Tramlink,24.0,16.0
+2020,9,London Underground / Docklands Light Railway,781.0,29.0
+2020,9,TFL Rail,62.0,24.4
+2020,10,Bus,1261.0,11.6
+2020,10,London Overground,85.0,13.4
+2020,10,London Tramlink,14.0,9.1
+2020,10,London Underground / Docklands Light Railway,854.0,26.8
+2020,10,TFL Rail,48.0,18.8
+2020,11,Bus,1020.0,12.1
+2020,11,London Overground,87.0,17.8
+2020,11,London Tramlink,16.0,10.9
+2020,11,London Underground / Docklands Light Railway,748.0,34.3
+2020,11,TFL Rail,36.0,17.6
+2020,12,Bus,841.0,9.8
+2020,12,London Overground,53.0,10.7
+2020,12,London Tramlink,12.0,9.6
+2020,12,London Underground / Docklands Light Railway,724.0,29.8
+2020,12,TFL Rail,40.0,20.8
+2021,1,Bus,481.0,9.2
+2021,1,London Overground,59.0,19.2
+2021,1,London Tramlink,10.0,11.5
+2021,1,London Underground / Docklands Light Railway,514.0,43.400000000000006
+2021,1,TFL Rail,39.0,34.1
+2021,2,Bus,551.0,9.7
+2021,2,London Overground,49.0,13.7
+2021,2,London Tramlink,6.0,8.2
+2021,2,London Underground / Docklands Light Railway,526.0,42.1
+2021,2,TFL Rail,32.0,24.4
+2021,3,Bus,870.0,11.0
+2021,3,London Overground,72.0,12.9
+2021,3,London Tramlink,13.0,12.2
+2021,3,London Underground / Docklands Light Railway,670.0,32.8
+2021,3,TFL Rail,36.0,18.0
+2021,4,Bus,858.0,9.3
+2021,4,London Overground,90.0,13.5
+2021,4,London Tramlink,17.0,14.2
+2021,4,London Underground / Docklands Light Railway,697.0,27.3
+2021,4,TFL Rail,26.0,12.4
+2021,5,Bus,1028.0,9.1
+2021,5,London Overground,84.0,10.9
+2021,5,London Tramlink,15.0,9.3
+2021,5,London Underground / Docklands Light Railway,767.0,24.9
+2021,5,TFL Rail,38.0,15.5
+2021,6,Bus,1056.0,9.1
+2021,6,London Overground,81.0,9.6
+2021,6,London Tramlink,14.0,8.6
+2021,6,London Underground / Docklands Light Railway,791.0,22.1
+2021,6,TFL Rail,50.0,16.7
+2021,7,Bus,1131.0,9.6
+2021,7,London Overground,89.0,10.6
+2021,7,London Tramlink,20.0,12.2
+2021,7,London Underground / Docklands Light Railway,834.0,21.700000000000003
+2021,7,TFL Rail,53.0,17.1
+2021,8,Bus,952.0,8.7
+2021,8,London Overground,74.0,8.9
+2021,8,London Tramlink,18.0,15.2
+2021,8,London Underground / Docklands Light Railway,789.0,18.3
+2021,8,TFL Rail,57.0,18.3
+2021,9,Bus,1297.0,9.6
+2021,9,London Overground,119.0,12.1
+2021,9,London Tramlink,16.0,9.4
+2021,9,London Underground / Docklands Light Railway,879.0,19.4
+2021,9,TFL Rail,49.0,13.4
+2021,10,Bus,1430.0,10.4
+2021,10,London Overground,103.0,10.3
+2021,10,London Tramlink,14.0,7.7
+2021,10,London Underground / Docklands Light Railway,1054.0,21.3
+2021,10,TFL Rail,45.0,11.3
+2021,11,Bus,1446.0,10.2
+2021,11,London Overground,95.0,8.4
+2021,11,London Tramlink,22.0,12.5
+2021,11,London Underground / Docklands Light Railway,1151.0,20.1
+2021,11,TFL Rail,61.0,14.7
+2021,12,Bus,1231.0,10.2
+2021,12,London Overground,96.0,10.9
+2021,12,London Tramlink,16.0,10.8
+2021,12,London Underground / Docklands Light Railway,1108.0,25.4
+2021,12,TFL Rail,50.0,15.0
+2022,1,Bus,1200.0,9.5
+2022,1,London Overground,107.0,11.7
+2022,1,London Tramlink,22.0,13.0
+2022,1,London Underground / Docklands Light Railway,1119.0,27.9
+2022,1,TFL Rail,50.0,14.7
+2022,2,Bus,1283.0,10.2
+2022,2,London Overground,91.0,9.1
+2022,2,London Tramlink,11.0,7.9
+2022,2,London Underground / Docklands Light Railway,1046.0,21.8
+2022,2,TFL Rail,38.0,11.0
+2022,3,Bus,1505.0,9.9
+2022,3,London Overground,136.0,11.1
+2022,3,London Tramlink,18.0,8.8
+2022,3,London Underground / Docklands Light Railway,1266.0,26.5
+2022,3,TFL Rail,60.0,14.1
+2022,4,Bus,1298.0,9.6
+2022,4,London Overground,105.0,8.8
+2022,4,London Tramlink,10.0,6.3
+2022,4,London Underground / Docklands Light Railway,1120.0,23.1
+2022,4,TFL Rail,67.0,16.2
+2022,5,Bus,1513.0,9.9
+2022,5,London Overground,127.0,9.0
+2022,5,London Tramlink,27.0,13.8
+2022,5,London Underground / Docklands Light Railway,1318.0,26.5
+2022,5,TFL Rail,86.0,12.8
+2022,6,Bus,1554.0,10.3
+2022,6,London Overground,147.0,11.8
+2022,6,London Tramlink,20.0,11.1
+2022,6,London Underground / Docklands Light Railway,1279.0,24.8
+2022,6,TFL Rail,87.0,8.6
+2022,7,Bus,1305.0,8.9
+2022,7,London Overground,136.0,10.4
+2022,7,London Tramlink,22.0,13.1
+2022,7,London Underground / Docklands Light Railway,1209.0,21.299999999999997
+2022,7,TFL Rail,90.0,8.4
+2022,8,Bus,1349.0,10.1
+2022,8,London Overground,152.0,12.8
+2022,8,London Tramlink,21.0,13.8
+2022,8,London Underground / Docklands Light Railway,1395.0,25.700000000000003
+2022,8,TFL Rail,95.0,8.8
+2022,9,Bus,1467.0,9.6
+2022,9,London Overground,101.0,7.1
+2022,9,London Tramlink,13.0,7.1
+2022,9,London Underground / Docklands Light Railway,987.0,17.1
+2022,9,TFL Rail,79.0,6.6
+2022,10,Bus,1570.0,10.0
+2022,10,London Overground,125.0,9.1
+2022,10,London Tramlink,14.0,7.9
+2022,10,London Underground / Docklands Light Railway,1558.0,23.5
+2022,10,TFL Rail,109.0,9.4
+2022,11,Bus,1669.0,10.6
+2022,11,London Overground,160.0,10.7
+2022,11,London Tramlink,37.0,20.6
+2022,11,London Underground / Docklands Light Railway,1823.0,30.200000000000003
+2022,11,TFL Rail,139.0,8.5
+2022,12,Bus,1396.0,10.1
+2022,12,London Overground,128.0,12.2
+2022,12,London Tramlink,33.0,21.6
+2022,12,London Underground / Docklands Light Railway,1628.0,28.5
+2022,12,TFL Rail,142.0,9.5
+2023,1,Bus,1523.0,10.2
+2023,1,London Overground,123.0,9.2
+2023,1,London Tramlink,41.0,22.6
+2023,1,London Underground / Docklands Light Railway,1754.0,27.8
+2023,1,TFL Rail,108.0,6.9
+2023,2,Bus,1436.0,10.2
+2023,2,London Overground,135.0,10.7
+2023,2,London Tramlink,24.0,14.3
+2023,2,London Underground / Docklands Light Railway,1763.0,29.4
+2023,2,TFL Rail,130.0,8.2
+2023,3,Bus,1729.0,13.2
+2023,3,London Overground,171.0,14.5
+2023,3,London Tramlink,28.0,18.5
+2023,3,London Underground / Docklands Light Railway,2002.0,36.9
+2023,3,TFL Rail,128.0,9.6
+2023,4,Bus,1672.0,11.5
+2023,4,London Overground,147.0,10.4
+2023,4,London Tramlink,28.0,18.9
+2023,4,London Underground / Docklands Light Railway,1810.0,26.3
+2023,4,TFL Rail,109.0,7.5
+2023,5,Bus,1584.0,9.9
+2023,5,London Overground,161.0,10.4
+2023,5,London Tramlink,25.0,13.8
+2023,5,London Underground / Docklands Light Railway,2009.0,28.4
+2023,5,TFL Rail,160.0,9.6
+2023,6,Bus,1618.0,10.0
+2023,6,London Overground,167.0,10.4
+2023,6,London Tramlink,18.0,9.7
+2023,6,London Underground / Docklands Light Railway,1871.0,28.799999999999997
+2023,6,TFL Rail,130.0,7.4
+2023,7,Bus,1373.0,8.8
+2023,7,London Overground,155.0,10.5
+2023,7,London Tramlink,28.0,16.2
+2023,7,London Underground / Docklands Light Railway,2030.0,30.599999999999998
+2023,7,TFL Rail,167.0,9.4
+2023,8,Bus,1178.0,8.2
+2023,8,London Overground,170.0,12.1
+2023,8,London Tramlink,22.0,13.8
+2023,8,London Underground / Docklands Light Railway,1800.0,26.5
+2023,8,TFL Rail,162.0,9.4
+2023,9,Bus,1551.0,9.5
+2023,9,London Overground,146.0,9.2
+2023,9,London Tramlink,33.0,18.6
+2023,9,London Underground / Docklands Light Railway,1748.0,25.799999999999997
+2023,9,TFL Rail,186.0,10.4
+2023,10,Bus,1739.0,10.7
+2023,10,London Overground,198.0,12.0
+2023,10,London Tramlink,28.0,18.4
+2023,10,London Underground / Docklands Light Railway,1998.0,26.1
+2023,10,TFL Rail,190.0,10.0
+2023,11,Bus,1764.0,10.9
+2023,11,London Overground,211.0,12.9
+2023,11,London Tramlink,21.0,11.7
+2023,11,London Underground / Docklands Light Railway,2400.0,30.7
+2023,11,TFL Rail,195.0,10.2
+2023,12,Bus,1702.0,11.5
+2023,12,London Overground,163.0,11.8
+2023,12,London Tramlink,16.0,9.6
+2023,12,London Underground / Docklands Light Railway,2273.0,30.8
+2023,12,TFL Rail,187.0,10.8
+2024,1,Bus,1565.0,10.3
+2024,1,London Overground,162.0,11.3
+2024,1,London Tramlink,25.0,14.1
+2024,1,London Underground / Docklands Light Railway,2040.0,31.2
+2024,1,TFL Rail,163.0,9.5
+2024,2,Bus,1504.0,10.0
+2024,2,London Overground,149.0,10.0
+2024,2,London Tramlink,15.0,12.0
+2024,2,London Underground / Docklands Light Railway,2301.0,31.299999999999997
+2024,2,TFL Rail,171.0,9.9
+2024,3,Bus,1520.0,9.3
+2024,3,London Overground,172.0,11.4
+2024,3,London Tramlink,10.0,5.9
+2024,3,London Underground / Docklands Light Railway,2184.0,28.700000000000003
+2024,3,TFL Rail,194.0,10.6

@@ -1,0 +1,931 @@
+Month,Year,Transport Mode,Volume
+4,2010,Bus,189.1
+5,2010,Bus,181.6
+6,2010,Bus,175.9
+7,2010,Bus,183.4
+8,2010,Bus,160.4
+9,2010,Bus,175.8
+10,2010,Bus,189.8
+10,2010,Bus,179.9
+11,2010,Bus,178.8
+12,2010,Bus,140.1
+1,2011,Bus,183.0
+2,2011,Bus,177.2
+3,2011,Bus,173.9
+4,2011,Bus,183.8
+5,2011,Bus,186.1
+6,2011,Bus,181.7
+7,2011,Bus,186.7
+8,2011,Bus,161.1
+9,2011,Bus,173.9
+10,2011,Bus,193.4
+10,2011,Bus,185.2
+11,2011,Bus,189.4
+12,2011,Bus,151.2
+1,2012,Bus,181.4
+2,2012,Bus,179.5
+3,2012,Bus,191.2
+4,2012,Bus,171.8
+5,2012,Bus,189.2
+6,2012,Bus,176.5
+7,2012,Bus,189.9
+8,2012,Bus,167.1
+9,2012,Bus,177.0
+9,2012,Bus,194.2
+10,2012,Bus,184.7
+11,2012,Bus,187.6
+12,2012,Bus,151.9
+1,2013,Bus,178.1
+2,2013,Bus,180.3
+3,2013,Bus,186.5
+4,2013,Bus,171.6
+5,2013,Bus,188.8
+6,2013,Bus,183.5
+7,2013,Bus,190.2
+8,2013,Bus,166.3
+9,2013,Bus,173.7
+9,2013,Bus,194.5
+10,2013,Bus,186.3
+11,2013,Bus,193.2
+12,2013,Bus,155.1
+1,2014,Bus,186.6
+2,2014,Bus,185.6
+3,2014,Bus,206.9
+4,2014,Bus,164.1
+5,2014,Bus,192.8
+6,2014,Bus,188.1
+7,2014,Bus,191.1
+8,2014,Bus,169.2
+8,2014,Bus,176.5
+9,2014,Bus,198.8
+10,2014,Bus,190.2
+11,2014,Bus,195.6
+12,2014,Bus,156.8
+1,2015,Bus,178.2
+2,2015,Bus,176.3
+3,2015,Bus,207.5
+4,2015,Bus,203.4
+5,2015,Bus,180.5
+6,2015,Bus,189.9
+7,2015,Bus,182.5
+8,2015,Bus,162.3
+9,2015,Bus,175.0
+10,2015,Bus,190.8
+11,2015,Bus,181.2
+11,2015,Bus,186.6
+12,2015,Bus,147.1
+1,2016,Bus,179.5
+2,2016,Bus,176.0
+3,2016,Bus,159.4
+4,2016,Bus,189.3
+5,2016,Bus,181.9
+6,2016,Bus,173.6
+7,2016,Bus,177.7
+8,2016,Bus,155.3
+9,2016,Bus,166.3
+10,2016,Bus,186.9
+10,2016,Bus,176.6
+11,2016,Bus,182.7
+12,2016,Bus,145.8
+1,2017,Bus,174.4
+2,2017,Bus,172.9
+3,2017,Bus,178.4
+4,2017,Bus,172.6
+5,2017,Bus,182.3
+6,2017,Bus,175.8
+7,2017,Bus,181.5
+8,2017,Bus,155.1
+9,2017,Bus,166.0
+10,2017,Bus,186.9
+10,2017,Bus,178.1
+11,2017,Bus,183.8
+12,2017,Bus,145.1
+1,2018,Bus,175.2
+2,2018,Bus,168.7
+3,2018,Bus,176.5
+4,2018,Bus,165.9
+5,2018,Bus,179.6
+6,2018,Bus,173.9
+7,2018,Bus,177.8
+8,2018,Bus,151.5
+9,2018,Bus,162.1
+9,2018,Bus,183.7
+10,2018,Bus,175.2
+11,2018,Bus,180.5
+12,2018,Bus,144.9
+1,2019,Bus,171.3
+2,2019,Bus,171.3
+3,2019,Bus,182.7
+4,2019,Bus,156.6
+5,2019,Bus,175.2
+6,2019,Bus,171.4
+7,2019,Bus,177.0
+8,2019,Bus,149.8
+9,2019,Bus,159.8
+9,2019,Bus,179.3
+10,2019,Bus,168.9
+11,2019,Bus,176.2
+12,2019,Bus,141.0
+1,2020,Bus,169.4
+2,2020,Bus,165.2
+3,2020,Bus,126.4
+4,2020,Bus,30.2
+5,2020,Bus,32.5
+6,2020,Bus,47.0
+7,2020,Bus,66.7
+8,2020,Bus,75.2
+9,2020,Bus,94.8
+10,2020,Bus,102.0
+11,2020,Bus,88.9
+11,2020,Bus,89.0
+12,2020,Bus,57.5
+1,2021,Bus,51.6
+2,2021,Bus,56.9
+3,2021,Bus,72.9
+4,2021,Bus,95.9
+5,2021,Bus,104.3
+6,2021,Bus,107.0
+7,2021,Bus,109.1
+8,2021,Bus,98.8
+9,2021,Bus,115.5
+10,2021,Bus,130.2
+10,2021,Bus,125.4
+11,2021,Bus,131.3
+12,2021,Bus,95.1
+1,2022,Bus,123.5
+2,2022,Bus,127.8
+3,2022,Bus,126.7
+4,2022,Bus,135.0
+5,2022,Bus,140.5
+6,2022,Bus,138.0
+7,2022,Bus,137.8
+8,2022,Bus,122.5
+9,2022,Bus,132.9
+10,2022,Bus,147.0
+10,2022,Bus,143.1
+11,2022,Bus,146.0
+12,2022,Bus,116.9
+1,2023,Bus,141.3
+2,2023,Bus,141.6
+3,2023,Bus,142.2
+4,2023,Bus,141.4
+5,2023,Bus,146.6
+6,2023,Bus,146.4
+7,2023,Bus,147.5
+8,2023,Bus,129.9
+9,2023,Bus,139.9
+10,2023,Bus,155.8
+10,2023,Bus,146.3
+11,2023,Bus,150.9
+12,2023,Bus,123.7
+1,2024,Bus,144.0
+2,2024,Bus,145.3
+3,2024,Bus,152.0
+4,2024,Bus,137.4
+5,2024,Bus,150.6
+6,2024,Bus,145.9
+7,2024,Bus,148.3
+4,2010,London Tramlink,2.3
+5,2010,London Tramlink,2.2
+6,2010,London Tramlink,2.1
+7,2010,London Tramlink,2.1
+8,2010,London Tramlink,2.0
+9,2010,London Tramlink,2.0
+10,2010,London Tramlink,2.3
+10,2010,London Tramlink,2.2
+11,2010,London Tramlink,2.3
+12,2010,London Tramlink,1.8
+1,2011,London Tramlink,2.1
+2,2011,London Tramlink,2.2
+3,2011,London Tramlink,2.1
+4,2011,London Tramlink,2.1
+5,2011,London Tramlink,2.2
+6,2011,London Tramlink,2.2
+7,2011,London Tramlink,2.3
+8,2011,London Tramlink,1.9
+9,2011,London Tramlink,2.1
+10,2011,London Tramlink,2.4
+10,2011,London Tramlink,2.3
+11,2011,London Tramlink,2.4
+12,2011,London Tramlink,1.9
+1,2012,London Tramlink,2.2
+2,2012,London Tramlink,2.0
+3,2012,London Tramlink,2.3
+4,2012,London Tramlink,2.1
+5,2012,London Tramlink,2.3
+6,2012,London Tramlink,2.2
+7,2012,London Tramlink,2.5
+8,2012,London Tramlink,2.3
+9,2012,London Tramlink,2.4
+9,2012,London Tramlink,2.5
+10,2012,London Tramlink,2.2
+11,2012,London Tramlink,2.5
+12,2012,London Tramlink,2.0
+1,2013,London Tramlink,2.3
+2,2013,London Tramlink,2.4
+3,2013,London Tramlink,2.4
+4,2013,London Tramlink,2.3
+5,2013,London Tramlink,2.5
+6,2013,London Tramlink,2.4
+7,2013,London Tramlink,2.5
+8,2013,London Tramlink,2.2
+9,2013,London Tramlink,2.0
+9,2013,London Tramlink,2.6
+10,2013,London Tramlink,2.4
+11,2013,London Tramlink,2.6
+12,2013,London Tramlink,2.0
+1,2014,London Tramlink,2.4
+2,2014,London Tramlink,2.4
+3,2014,London Tramlink,2.8
+4,2014,London Tramlink,2.2
+5,2014,London Tramlink,2.4
+6,2014,London Tramlink,2.3
+7,2014,London Tramlink,2.5
+8,2014,London Tramlink,2.0
+8,2014,London Tramlink,2.3
+9,2014,London Tramlink,2.6
+10,2014,London Tramlink,2.4
+11,2014,London Tramlink,2.6
+12,2014,London Tramlink,2.1
+1,2015,London Tramlink,2.4
+2,2015,London Tramlink,2.4
+3,2015,London Tramlink,2.5
+4,2015,London Tramlink,2.1
+5,2015,London Tramlink,2.0
+6,2015,London Tramlink,2.1
+7,2015,London Tramlink,2.2
+8,2015,London Tramlink,1.8
+9,2015,London Tramlink,2.0
+10,2015,London Tramlink,2.2
+11,2015,London Tramlink,2.2
+11,2015,London Tramlink,2.3
+12,2015,London Tramlink,1.8
+1,2016,London Tramlink,2.1
+2,2016,London Tramlink,2.2
+3,2016,London Tramlink,1.9
+4,2016,London Tramlink,2.4
+5,2016,London Tramlink,2.4
+6,2016,London Tramlink,2.3
+7,2016,London Tramlink,2.4
+8,2016,London Tramlink,1.8
+9,2016,London Tramlink,2.2
+10,2016,London Tramlink,2.5
+10,2016,London Tramlink,2.2
+11,2016,London Tramlink,2.1
+12,2016,London Tramlink,2.1
+1,2017,London Tramlink,2.4
+2,2017,London Tramlink,2.2
+3,2017,London Tramlink,2.4
+4,2017,London Tramlink,2.1
+5,2017,London Tramlink,2.3
+6,2017,London Tramlink,2.2
+7,2017,London Tramlink,2.4
+8,2017,London Tramlink,2.1
+9,2017,London Tramlink,2.2
+10,2017,London Tramlink,2.5
+10,2017,London Tramlink,2.3
+11,2017,London Tramlink,2.4
+12,2017,London Tramlink,1.9
+1,2018,London Tramlink,2.2
+2,2018,London Tramlink,2.2
+3,2018,London Tramlink,2.2
+4,2018,London Tramlink,1.9
+5,2018,London Tramlink,2.3
+6,2018,London Tramlink,2.3
+7,2018,London Tramlink,2.4
+8,2018,London Tramlink,2.1
+9,2018,London Tramlink,2.2
+9,2018,London Tramlink,2.4
+10,2018,London Tramlink,2.3
+11,2018,London Tramlink,2.4
+12,2018,London Tramlink,1.9
+1,2019,London Tramlink,2.2
+2,2019,London Tramlink,2.2
+3,2019,London Tramlink,2.2
+4,2019,London Tramlink,2.0
+5,2019,London Tramlink,2.2
+6,2019,London Tramlink,2.2
+7,2019,London Tramlink,2.3
+8,2019,London Tramlink,2.0
+9,2019,London Tramlink,1.6
+9,2019,London Tramlink,2.3
+10,2019,London Tramlink,2.2
+11,2019,London Tramlink,2.3
+12,2019,London Tramlink,1.9
+1,2020,London Tramlink,2.3
+2,2020,London Tramlink,2.2
+3,2020,London Tramlink,1.6
+4,2020,London Tramlink,0.4
+5,2020,London Tramlink,0.5
+6,2020,London Tramlink,0.7
+7,2020,London Tramlink,1.0
+8,2020,London Tramlink,1.0
+9,2020,London Tramlink,1.2
+10,2020,London Tramlink,1.4
+11,2020,London Tramlink,1.0
+11,2020,London Tramlink,1.1
+12,2020,London Tramlink,0.7
+1,2021,London Tramlink,0.7
+2,2021,London Tramlink,0.8
+3,2021,London Tramlink,1.0
+4,2021,London Tramlink,1.3
+5,2021,London Tramlink,1.5
+6,2021,London Tramlink,1.5
+7,2021,London Tramlink,1.5
+8,2021,London Tramlink,1.3
+9,2021,London Tramlink,1.2
+10,2021,London Tramlink,1.7
+10,2021,London Tramlink,1.7
+11,2021,London Tramlink,1.6
+12,2021,London Tramlink,1.2
+1,2022,London Tramlink,1.6
+2,2022,London Tramlink,1.4
+3,2022,London Tramlink,1.5
+4,2022,London Tramlink,1.6
+5,2022,London Tramlink,1.8
+6,2022,London Tramlink,1.7
+7,2022,London Tramlink,1.5
+8,2022,London Tramlink,1.5
+9,2022,London Tramlink,1.5
+10,2022,London Tramlink,1.6
+10,2022,London Tramlink,1.7
+11,2022,London Tramlink,1.6
+12,2022,London Tramlink,1.3
+1,2023,London Tramlink,1.8
+2,2023,London Tramlink,1.6
+3,2023,London Tramlink,1.7
+4,2023,London Tramlink,1.4
+5,2023,London Tramlink,1.6
+6,2023,London Tramlink,1.7
+7,2023,London Tramlink,1.6
+8,2023,London Tramlink,1.4
+9,2023,London Tramlink,1.7
+10,2023,London Tramlink,1.6
+10,2023,London Tramlink,1.3
+11,2023,London Tramlink,1.7
+12,2023,London Tramlink,1.4
+1,2024,London Tramlink,1.7
+2,2024,London Tramlink,1.2
+3,2024,London Tramlink,1.6
+4,2024,London Tramlink,0.7
+5,2024,London Tramlink,1.4
+6,2024,London Tramlink,1.5
+7,2024,London Tramlink,1.6
+4,2010,London Overground,0.0
+5,2010,London Overground,0.0
+6,2010,London Overground,0.0
+7,2010,London Overground,0.0
+8,2010,London Overground,0.0
+9,2010,London Overground,0.0
+10,2010,London Overground,0.0
+10,2010,London Overground,5.6
+11,2010,London Overground,5.4
+12,2010,London Overground,3.5
+1,2011,London Overground,5.2
+2,2011,London Overground,5.2
+3,2011,London Overground,5.8
+4,2011,London Overground,6.3
+5,2011,London Overground,6.4
+6,2011,London Overground,6.9
+7,2011,London Overground,7.6
+8,2011,London Overground,7.7
+9,2011,London Overground,7.7
+10,2011,London Overground,8.7
+10,2011,London Overground,8.8
+11,2011,London Overground,9.0
+12,2011,London Overground,6.9
+1,2012,London Overground,8.7
+2,2012,London Overground,8.8
+3,2012,London Overground,9.1
+4,2012,London Overground,8.5
+5,2012,London Overground,8.9
+6,2012,London Overground,8.6
+7,2012,London Overground,8.9
+8,2012,London Overground,10.5
+9,2012,London Overground,9.8
+9,2012,London Overground,9.7
+10,2012,London Overground,9.8
+11,2012,London Overground,10.0
+12,2012,London Overground,8.2
+1,2013,London Overground,10.2
+2,2013,London Overground,10.7
+3,2013,London Overground,10.8
+4,2013,London Overground,10.3
+5,2013,London Overground,10.3
+6,2013,London Overground,10.9
+7,2013,London Overground,11.3
+8,2013,London Overground,10.6
+9,2013,London Overground,10.4
+9,2013,London Overground,11.2
+10,2013,London Overground,9.6
+11,2013,London Overground,10.6
+12,2013,London Overground,8.1
+1,2014,London Overground,10.3
+2,2014,London Overground,10.8
+3,2014,London Overground,11.3
+4,2014,London Overground,9.7
+5,2014,London Overground,10.5
+6,2014,London Overground,10.5
+7,2014,London Overground,10.8
+8,2014,London Overground,10.6
+8,2014,London Overground,10.8
+9,2014,London Overground,10.8
+10,2014,London Overground,11.0
+11,2014,London Overground,11.2
+12,2014,London Overground,8.7
+1,2015,London Overground,11.4
+2,2015,London Overground,11.1
+3,2015,London Overground,12.6
+4,2015,London Overground,13.3
+5,2015,London Overground,11.8
+6,2015,London Overground,14.7
+7,2015,London Overground,14.9
+8,2015,London Overground,13.8
+9,2015,London Overground,13.9
+10,2015,London Overground,15.7
+11,2015,London Overground,15.5
+11,2015,London Overground,15.8
+12,2015,London Overground,11.3
+1,2016,London Overground,15.4
+2,2016,London Overground,14.5
+3,2016,London Overground,12.6
+4,2016,London Overground,15.6
+5,2016,London Overground,14.4
+6,2016,London Overground,13.8
+7,2016,London Overground,14.1
+8,2016,London Overground,13.7
+9,2016,London Overground,14.2
+10,2016,London Overground,15.2
+10,2016,London Overground,15.4
+11,2016,London Overground,15.7
+12,2016,London Overground,12.0
+1,2017,London Overground,14.8
+2,2017,London Overground,14.6
+3,2017,London Overground,15.1
+4,2017,London Overground,14.7
+5,2017,London Overground,14.8
+6,2017,London Overground,14.4
+7,2017,London Overground,15.0
+8,2017,London Overground,14.4
+9,2017,London Overground,14.5
+10,2017,London Overground,15.6
+10,2017,London Overground,15.4
+11,2017,London Overground,15.5
+12,2017,London Overground,11.6
+1,2018,London Overground,14.8
+2,2018,London Overground,14.1
+3,2018,London Overground,15.1
+4,2018,London Overground,14.7
+5,2018,London Overground,14.4
+6,2018,London Overground,14.3
+7,2018,London Overground,14.8
+8,2018,London Overground,14.0
+9,2018,London Overground,14.1
+9,2018,London Overground,15.8
+10,2018,London Overground,15.6
+11,2018,London Overground,15.6
+12,2018,London Overground,11.6
+1,2019,London Overground,14.5
+2,2019,London Overground,14.4
+3,2019,London Overground,15.7
+4,2019,London Overground,13.9
+5,2019,London Overground,14.2
+6,2019,London Overground,13.8
+7,2019,London Overground,14.8
+8,2019,London Overground,12.9
+9,2019,London Overground,13.5
+9,2019,London Overground,17.8
+10,2019,London Overground,17.1
+11,2019,London Overground,15.8
+12,2019,London Overground,10.6
+1,2020,London Overground,14.1
+2,2020,London Overground,15.6
+3,2020,London Overground,13.0
+4,2020,London Overground,1.0
+5,2020,London Overground,1.5
+6,2020,London Overground,2.8
+7,2020,London Overground,4.5
+8,2020,London Overground,5.1
+9,2020,London Overground,6.6
+10,2020,London Overground,8.5
+11,2020,London Overground,7.1
+11,2020,London Overground,6.6
+12,2020,London Overground,3.2
+1,2021,London Overground,3.5
+2,2021,London Overground,4.4
+3,2021,London Overground,4.8
+4,2021,London Overground,8.6
+5,2021,London Overground,7.7
+6,2021,London Overground,7.8
+7,2021,London Overground,10.1
+8,2021,London Overground,8.6
+9,2021,London Overground,10.6
+10,2021,London Overground,12.5
+10,2021,London Overground,11.6
+11,2021,London Overground,12.2
+12,2021,London Overground,6.7
+1,2022,London Overground,10.0
+2,2022,London Overground,10.7
+3,2022,London Overground,13.8
+4,2022,London Overground,12.0
+5,2022,London Overground,12.9
+6,2022,London Overground,11.1
+7,2022,London Overground,12.5
+8,2022,London Overground,10.0
+9,2022,London Overground,12.3
+10,2022,London Overground,12.5
+10,2022,London Overground,13.3
+11,2022,London Overground,14.0
+12,2022,London Overground,6.9
+1,2023,London Overground,13.1
+2,2023,London Overground,13.4
+3,2023,London Overground,13.2
+4,2023,London Overground,13.8
+5,2023,London Overground,14.1
+6,2023,London Overground,14.6
+7,2023,London Overground,14.3
+8,2023,London Overground,12.4
+9,2023,London Overground,13.8
+10,2023,London Overground,14.8
+10,2023,London Overground,15.0
+11,2023,London Overground,15.0
+12,2023,London Overground,11.3
+1,2024,London Overground,13.7
+2,2024,London Overground,14.3
+3,2024,London Overground,14.1
+4,2024,London Overground,13.5
+5,2024,London Overground,14.8
+6,2024,London Overground,13.9
+7,2024,London Overground,14.4
+4,2010,TFL Rail,0.0
+5,2010,TFL Rail,0.0
+6,2010,TFL Rail,0.0
+7,2010,TFL Rail,0.0
+8,2010,TFL Rail,0.0
+9,2010,TFL Rail,0.0
+10,2010,TFL Rail,0.0
+10,2010,TFL Rail,0.0
+11,2010,TFL Rail,0.0
+12,2010,TFL Rail,0.0
+1,2011,TFL Rail,0.0
+2,2011,TFL Rail,0.0
+3,2011,TFL Rail,0.0
+4,2011,TFL Rail,0.0
+5,2011,TFL Rail,0.0
+6,2011,TFL Rail,0.0
+7,2011,TFL Rail,0.0
+8,2011,TFL Rail,0.0
+9,2011,TFL Rail,0.0
+10,2011,TFL Rail,0.0
+10,2011,TFL Rail,0.0
+11,2011,TFL Rail,0.0
+12,2011,TFL Rail,0.0
+1,2012,TFL Rail,0.0
+2,2012,TFL Rail,0.0
+3,2012,TFL Rail,0.0
+4,2012,TFL Rail,0.0
+5,2012,TFL Rail,0.0
+6,2012,TFL Rail,0.0
+7,2012,TFL Rail,0.0
+8,2012,TFL Rail,0.0
+9,2012,TFL Rail,0.0
+9,2012,TFL Rail,0.0
+10,2012,TFL Rail,0.0
+11,2012,TFL Rail,0.0
+12,2012,TFL Rail,0.0
+1,2013,TFL Rail,0.0
+2,2013,TFL Rail,0.0
+3,2013,TFL Rail,0.0
+4,2013,TFL Rail,0.0
+5,2013,TFL Rail,0.0
+6,2013,TFL Rail,0.0
+7,2013,TFL Rail,0.0
+8,2013,TFL Rail,0.0
+9,2013,TFL Rail,0.0
+9,2013,TFL Rail,0.0
+10,2013,TFL Rail,0.0
+11,2013,TFL Rail,0.0
+12,2013,TFL Rail,0.0
+1,2014,TFL Rail,0.0
+2,2014,TFL Rail,0.0
+3,2014,TFL Rail,0.0
+4,2014,TFL Rail,2.9
+5,2014,TFL Rail,0.0
+6,2014,TFL Rail,0.0
+7,2014,TFL Rail,0.0
+8,2014,TFL Rail,0.0
+8,2014,TFL Rail,0.0
+9,2014,TFL Rail,0.0
+10,2014,TFL Rail,0.0
+11,2014,TFL Rail,0.0
+12,2014,TFL Rail,0.0
+1,2015,TFL Rail,0.0
+2,2015,TFL Rail,0.0
+3,2015,TFL Rail,0.0
+4,2015,TFL Rail,0.0
+5,2015,TFL Rail,0.0
+6,2015,TFL Rail,3.6
+7,2015,TFL Rail,3.8
+8,2015,TFL Rail,3.7
+9,2015,TFL Rail,3.7
+10,2015,TFL Rail,4.1
+11,2015,TFL Rail,4.2
+11,2015,TFL Rail,4.2
+12,2015,TFL Rail,3.0
+1,2016,TFL Rail,3.8
+2,2016,TFL Rail,3.2
+3,2016,TFL Rail,2.8
+4,2016,TFL Rail,4.0
+5,2016,TFL Rail,3.7
+6,2016,TFL Rail,3.5
+7,2016,TFL Rail,3.8
+8,2016,TFL Rail,3.6
+9,2016,TFL Rail,3.5
+10,2016,TFL Rail,3.7
+10,2016,TFL Rail,3.8
+11,2016,TFL Rail,4.0
+12,2016,TFL Rail,3.3
+1,2017,TFL Rail,3.8
+2,2017,TFL Rail,3.6
+3,2017,TFL Rail,3.4
+4,2017,TFL Rail,3.3
+5,2017,TFL Rail,3.5
+6,2017,TFL Rail,3.4
+7,2017,TFL Rail,3.7
+8,2017,TFL Rail,3.5
+9,2017,TFL Rail,3.3
+10,2017,TFL Rail,3.8
+10,2017,TFL Rail,3.7
+11,2017,TFL Rail,3.9
+12,2017,TFL Rail,2.9
+1,2018,TFL Rail,3.7
+2,2018,TFL Rail,3.4
+3,2018,TFL Rail,3.3
+4,2018,TFL Rail,3.5
+5,2018,TFL Rail,3.7
+6,2018,TFL Rail,4.2
+7,2018,TFL Rail,4.5
+8,2018,TFL Rail,4.1
+9,2018,TFL Rail,4.1
+9,2018,TFL Rail,4.7
+10,2018,TFL Rail,4.7
+11,2018,TFL Rail,4.6
+12,2018,TFL Rail,3.9
+1,2019,TFL Rail,4.6
+2,2019,TFL Rail,4.4
+3,2019,TFL Rail,4.3
+4,2019,TFL Rail,4.3
+5,2019,TFL Rail,4.5
+6,2019,TFL Rail,4.4
+7,2019,TFL Rail,4.6
+8,2019,TFL Rail,4.3
+9,2019,TFL Rail,4.3
+9,2019,TFL Rail,4.9
+10,2019,TFL Rail,4.9
+11,2019,TFL Rail,5.0
+12,2019,TFL Rail,4.3
+1,2020,TFL Rail,5.7
+2,2020,TFL Rail,5.2
+3,2020,TFL Rail,3.5
+4,2020,TFL Rail,0.6
+5,2020,TFL Rail,0.7
+6,2020,TFL Rail,1.2
+7,2020,TFL Rail,1.6
+8,2020,TFL Rail,2.0
+9,2020,TFL Rail,2.2
+10,2020,TFL Rail,2.5
+11,2020,TFL Rail,2.1
+11,2020,TFL Rail,2.1
+12,2020,TFL Rail,1.2
+1,2021,TFL Rail,1.2
+2,2021,TFL Rail,1.4
+3,2021,TFL Rail,1.5
+4,2021,TFL Rail,2.1
+5,2021,TFL Rail,2.3
+6,2021,TFL Rail,2.7
+7,2021,TFL Rail,2.8
+8,2021,TFL Rail,2.8
+9,2021,TFL Rail,3.1
+10,2021,TFL Rail,3.7
+10,2021,TFL Rail,3.7
+11,2021,TFL Rail,3.3
+12,2021,TFL Rail,2.4
+1,2022,TFL Rail,3.2
+2,2022,TFL Rail,3.1
+3,2022,TFL Rail,3.1
+4,2022,TFL Rail,4.4
+5,2022,TFL Rail,5.5
+6,2022,TFL Rail,8.1
+7,2022,TFL Rail,11.6
+8,2022,TFL Rail,9.2
+9,2022,TFL Rail,9.8
+10,2022,TFL Rail,11.0
+10,2022,TFL Rail,12.5
+11,2022,TFL Rail,15.2
+12,2022,TFL Rail,8.9
+1,2023,TFL Rail,13.4
+2,2023,TFL Rail,14.0
+3,2023,TFL Rail,14.0
+4,2023,TFL Rail,14.2
+5,2023,TFL Rail,15.1
+6,2023,TFL Rail,16.0
+7,2023,TFL Rail,16.7
+8,2023,TFL Rail,15.4
+9,2023,TFL Rail,15.6
+10,2023,TFL Rail,17.3
+10,2023,TFL Rail,17.8
+11,2023,TFL Rail,17.8
+12,2023,TFL Rail,14.3
+1,2024,TFL Rail,16.0
+2,2024,TFL Rail,16.8
+3,2024,TFL Rail,17.1
+4,2024,TFL Rail,16.4
+5,2024,TFL Rail,17.8
+6,2024,TFL Rail,17.1
+7,2024,TFL Rail,18.3
+4,2010,London Underground / Docklands Light Railway,96.8
+5,2010,London Underground / Docklands Light Railway,90.3
+6,2010,London Underground / Docklands Light Railway,90.1
+7,2010,London Underground / Docklands Light Railway,92.6
+8,2010,London Underground / Docklands Light Railway,88.7
+9,2010,London Underground / Docklands Light Railway,86.4
+10,2010,London Underground / Docklands Light Railway,95.0
+10,2010,London Underground / Docklands Light Railway,97.0
+11,2010,London Underground / Docklands Light Railway,97.0
+12,2010,London Underground / Docklands Light Railway,77.3
+1,2011,London Underground / Docklands Light Railway,90.7
+2,2011,London Underground / Docklands Light Railway,94.3
+3,2011,London Underground / Docklands Light Railway,89.5
+4,2011,London Underground / Docklands Light Railway,97.60000000000001
+5,2011,London Underground / Docklands Light Railway,94.1
+6,2011,London Underground / Docklands Light Railway,95.0
+7,2011,London Underground / Docklands Light Railway,98.9
+8,2011,London Underground / Docklands Light Railway,91.7
+9,2011,London Underground / Docklands Light Railway,91.7
+10,2011,London Underground / Docklands Light Railway,100.6
+10,2011,London Underground / Docklands Light Railway,103.1
+11,2011,London Underground / Docklands Light Railway,104.19999999999999
+12,2011,London Underground / Docklands Light Railway,84.5
+1,2012,London Underground / Docklands Light Railway,96.7
+2,2012,London Underground / Docklands Light Railway,98.5
+3,2012,London Underground / Docklands Light Railway,100.0
+4,2012,London Underground / Docklands Light Railway,95.7
+5,2012,London Underground / Docklands Light Railway,100.0
+6,2012,London Underground / Docklands Light Railway,96.7
+7,2012,London Underground / Docklands Light Railway,104.80000000000001
+8,2012,London Underground / Docklands Light Railway,113.6
+9,2012,London Underground / Docklands Light Railway,102.7
+9,2012,London Underground / Docklands Light Railway,105.9
+10,2012,London Underground / Docklands Light Railway,108.4
+11,2012,London Underground / Docklands Light Railway,109.60000000000001
+12,2012,London Underground / Docklands Light Railway,84.7
+1,2013,London Underground / Docklands Light Railway,99.0
+2,2013,London Underground / Docklands Light Railway,104.3
+3,2013,London Underground / Docklands Light Railway,104.19999999999999
+4,2013,London Underground / Docklands Light Railway,99.69999999999999
+5,2013,London Underground / Docklands Light Railway,105.10000000000001
+6,2013,London Underground / Docklands Light Railway,103.60000000000001
+7,2013,London Underground / Docklands Light Railway,108.8
+8,2013,London Underground / Docklands Light Railway,101.6
+9,2013,London Underground / Docklands Light Railway,98.2
+9,2013,London Underground / Docklands Light Railway,109.30000000000001
+10,2013,London Underground / Docklands Light Railway,111.9
+11,2013,London Underground / Docklands Light Railway,114.5
+12,2013,London Underground / Docklands Light Railway,90.4
+1,2014,London Underground / Docklands Light Railway,104.6
+2,2014,London Underground / Docklands Light Railway,102.6
+3,2014,London Underground / Docklands Light Railway,115.3
+4,2014,London Underground / Docklands Light Railway,96.39999999999999
+5,2014,London Underground / Docklands Light Railway,100.5
+6,2014,London Underground / Docklands Light Railway,106.5
+7,2014,London Underground / Docklands Light Railway,110.89999999999999
+8,2014,London Underground / Docklands Light Railway,105.5
+8,2014,London Underground / Docklands Light Railway,101.4
+9,2014,London Underground / Docklands Light Railway,112.8
+10,2014,London Underground / Docklands Light Railway,117.8
+11,2014,London Underground / Docklands Light Railway,120.4
+12,2014,London Underground / Docklands Light Railway,93.9
+1,2015,London Underground / Docklands Light Railway,108.8
+2,2015,London Underground / Docklands Light Railway,114.7
+3,2015,London Underground / Docklands Light Railway,126.3
+4,2015,London Underground / Docklands Light Railway,123.8
+5,2015,London Underground / Docklands Light Railway,110.9
+6,2015,London Underground / Docklands Light Railway,115.0
+7,2015,London Underground / Docklands Light Railway,110.3
+8,2015,London Underground / Docklands Light Railway,103.5
+9,2015,London Underground / Docklands Light Railway,106.3
+10,2015,London Underground / Docklands Light Railway,121.3
+11,2015,London Underground / Docklands Light Railway,121.60000000000001
+11,2015,London Underground / Docklands Light Railway,123.4
+12,2015,London Underground / Docklands Light Railway,92.5
+1,2016,London Underground / Docklands Light Railway,116.1
+2,2016,London Underground / Docklands Light Railway,118.8
+3,2016,London Underground / Docklands Light Railway,102.9
+4,2016,London Underground / Docklands Light Railway,124.60000000000001
+5,2016,London Underground / Docklands Light Railway,115.2
+6,2016,London Underground / Docklands Light Railway,113.4
+7,2016,London Underground / Docklands Light Railway,118.5
+8,2016,London Underground / Docklands Light Railway,110.1
+9,2016,London Underground / Docklands Light Railway,107.6
+10,2016,London Underground / Docklands Light Railway,120.0
+10,2016,London Underground / Docklands Light Railway,122.69999999999999
+11,2016,London Underground / Docklands Light Railway,126.8
+12,2016,London Underground / Docklands Light Railway,96.6
+1,2017,London Underground / Docklands Light Railway,111.5
+2,2017,London Underground / Docklands Light Railway,118.0
+3,2017,London Underground / Docklands Light Railway,115.5
+4,2017,London Underground / Docklands Light Railway,114.3
+5,2017,London Underground / Docklands Light Railway,115.5
+6,2017,London Underground / Docklands Light Railway,110.8
+7,2017,London Underground / Docklands Light Railway,118.6
+8,2017,London Underground / Docklands Light Railway,110.2
+9,2017,London Underground / Docklands Light Railway,105.0
+10,2017,London Underground / Docklands Light Railway,118.19999999999999
+10,2017,London Underground / Docklands Light Railway,120.5
+11,2017,London Underground / Docklands Light Railway,124.89999999999999
+12,2017,London Underground / Docklands Light Railway,95.10000000000001
+1,2018,London Underground / Docklands Light Railway,114.8
+2,2018,London Underground / Docklands Light Railway,114.6
+3,2018,London Underground / Docklands Light Railway,114.0
+4,2018,London Underground / Docklands Light Railway,112.9
+5,2018,London Underground / Docklands Light Railway,115.3
+6,2018,London Underground / Docklands Light Railway,113.60000000000001
+7,2018,London Underground / Docklands Light Railway,118.6
+8,2018,London Underground / Docklands Light Railway,109.4
+9,2018,London Underground / Docklands Light Railway,106.1
+9,2018,London Underground / Docklands Light Railway,119.5
+10,2018,London Underground / Docklands Light Railway,122.8
+11,2018,London Underground / Docklands Light Railway,128.1
+12,2018,London Underground / Docklands Light Railway,99.4
+1,2019,London Underground / Docklands Light Railway,116.0
+2,2019,London Underground / Docklands Light Railway,120.5
+3,2019,London Underground / Docklands Light Railway,124.1
+4,2019,London Underground / Docklands Light Railway,110.10000000000001
+5,2019,London Underground / Docklands Light Railway,115.8
+6,2019,London Underground / Docklands Light Railway,117.3
+7,2019,London Underground / Docklands Light Railway,121.3
+8,2019,London Underground / Docklands Light Railway,112.1
+9,2019,London Underground / Docklands Light Railway,108.10000000000001
+9,2019,London Underground / Docklands Light Railway,121.7
+10,2019,London Underground / Docklands Light Railway,123.3
+11,2019,London Underground / Docklands Light Railway,127.3
+12,2019,London Underground / Docklands Light Railway,98.7
+1,2020,London Underground / Docklands Light Railway,115.0
+2,2020,London Underground / Docklands Light Railway,115.5
+3,2020,London Underground / Docklands Light Railway,67.0
+4,2020,London Underground / Docklands Light Railway,6.9
+5,2020,London Underground / Docklands Light Railway,8.1
+6,2020,London Underground / Docklands Light Railway,15.4
+7,2020,London Underground / Docklands Light Railway,25.099999999999998
+8,2020,London Underground / Docklands Light Railway,32.4
+9,2020,London Underground / Docklands Light Railway,40.5
+10,2020,London Underground / Docklands Light Railway,44.0
+11,2020,London Underground / Docklands Light Railway,37.800000000000004
+11,2020,London Underground / Docklands Light Railway,36.1
+12,2020,London Underground / Docklands Light Railway,21.5
+1,2021,London Underground / Docklands Light Railway,19.5
+2,2021,London Underground / Docklands Light Railway,22.900000000000002
+3,2021,London Underground / Docklands Light Railway,25.7
+4,2021,London Underground / Docklands Light Railway,42.3
+5,2021,London Underground / Docklands Light Railway,47.5
+6,2021,London Underground / Docklands Light Railway,54.2
+7,2021,London Underground / Docklands Light Railway,55.0
+8,2021,London Underground / Docklands Light Railway,57.1
+9,2021,London Underground / Docklands Light Railway,64.10000000000001
+10,2021,London Underground / Docklands Light Railway,76.8
+10,2021,London Underground / Docklands Light Railway,80.9
+11,2021,London Underground / Docklands Light Railway,82.8
+12,2021,London Underground / Docklands Light Railway,50.0
+1,2022,London Underground / Docklands Light Railway,66.10000000000001
+2,2022,London Underground / Docklands Light Railway,71.9
+3,2022,London Underground / Docklands Light Railway,77.0
+4,2022,London Underground / Docklands Light Railway,86.3
+5,2022,London Underground / Docklands Light Railway,87.69999999999999
+6,2022,London Underground / Docklands Light Railway,78.4
+7,2022,London Underground / Docklands Light Railway,87.8
+8,2022,London Underground / Docklands Light Railway,80.30000000000001
+9,2022,London Underground / Docklands Light Railway,86.1
+10,2022,London Underground / Docklands Light Railway,95.8
+10,2022,London Underground / Docklands Light Railway,95.3
+11,2022,London Underground / Docklands Light Railway,102.69999999999999
+12,2022,London Underground / Docklands Light Railway,74.2
+1,2023,London Underground / Docklands Light Railway,92.60000000000001
+2,2023,London Underground / Docklands Light Railway,97.6
+3,2023,London Underground / Docklands Light Railway,92.5
+4,2023,London Underground / Docklands Light Railway,99.7
+5,2023,London Underground / Docklands Light Railway,95.9
+6,2023,London Underground / Docklands Light Railway,98.10000000000001
+7,2023,London Underground / Docklands Light Railway,102.0
+8,2023,London Underground / Docklands Light Railway,93.8
+9,2023,London Underground / Docklands Light Railway,91.0
+10,2023,London Underground / Docklands Light Railway,101.7
+10,2023,London Underground / Docklands Light Railway,103.6
+11,2023,London Underground / Docklands Light Railway,109.7
+12,2023,London Underground / Docklands Light Railway,87.6
+1,2024,London Underground / Docklands Light Railway,94.60000000000001
+2,2024,London Underground / Docklands Light Railway,100.8
+3,2024,London Underground / Docklands Light Railway,101.3
+4,2024,London Underground / Docklands Light Railway,96.60000000000001
+5,2024,London Underground / Docklands Light Railway,99.4
+6,2024,London Underground / Docklands Light Railway,100.6
+7,2024,London Underground / Docklands Light Railway,102.8
